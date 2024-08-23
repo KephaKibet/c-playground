@@ -1,0 +1,7 @@
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\bin\Debug\c#  playground.exe.config
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\bin\Debug\c#  playground.exe
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\bin\Debug\c#  playground.pdb
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\obj\Debug\c#  playground.csproj.AssemblyReference.cache
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\obj\Debug\c#  playground.csproj.CoreCompileInputs.cache
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\obj\Debug\c#  playground.exe
+C:\Users\Kepha Kibet\Desktop\c#  playground\c#  playground\obj\Debug\c#  playground.pdb
